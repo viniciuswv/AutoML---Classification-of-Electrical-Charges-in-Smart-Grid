@@ -18,3 +18,9 @@ This code was developed as a dissertation project by (VIANNA, 2021), for the imp
  - Was necessary to adjust some network learning parameters to improve
    the robustness and stability during training and validation,
    otherwise, the Hillclimb optimizer could be stuck in a local minimum.
+ - It was possible to reduce the amount of data by 90% in the lamp
+   database and 33.34% in the computer database.
+ - The hyperparameter adjustment delivered a configuration in
+   considerably less time than if it were done manually, still providing
+   a drastic reduction in the total network parameters in both cases
+   (lamps and computers).
