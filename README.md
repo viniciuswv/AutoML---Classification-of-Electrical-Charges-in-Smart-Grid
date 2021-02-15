@@ -3,7 +3,7 @@
 
 # Introduction
 
-This code was developed as a dissertation project by (VIANNA, 2021), for the implementation and investigation of an two stages based optimization for automatically configuring a hyperparameters set of interest in the convolutional neural network (CNN) originally developed in (FIRMES, 2020), whose objective is to classify 16 possible combinations of two types of highly similar electrical charges (lamps and PCs) on a test bench.
+This code was developed as a dissertation project by (VIANNA, 2021), for the implementation and investigation of an two stages based optimization for automatically configuring a hyperparameters set of interest in the convolutional neural network (CNN) originally developed in (FIRMES, 2020), whose objective is to classify 16 possible combinations of two types of highly similar electrical charges (lamps and PCs) on a test bench. The plots are in the end of the code.
 
 **Highlights:**
 
